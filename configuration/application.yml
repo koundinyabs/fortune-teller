@@ -1,3 +1,3 @@
 fortune:
-  fallbackFortune: To err is humane! 
+  fallbackFortune: Everything should be made as simple as possible, but not simpler.
   fortuneServiceURL: http://fortune-service
